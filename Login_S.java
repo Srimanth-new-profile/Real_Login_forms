@@ -117,9 +117,6 @@ public class Login_S {
 		JButton btnNewButton_2 = new JButton("Exit");
 		btnNewButton_2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				
-				
-				
 			}
 		});
 		btnNewButton_2.setForeground(SystemColor.textHighlight);
